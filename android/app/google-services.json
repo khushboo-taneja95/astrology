@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618951931056",
+    "project_id": "astromind-c161a",
+    "storage_bucket": "astromind-c161a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618951931056:android:81112b5d520765ef93f775",
+        "android_client_info": {
+          "package_name": "com.astromind.astromind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618951931056-bsklla038ekiimnf3n5257o6pu1rs7mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astromind.astromind",
+            "certificate_hash": "6c642516de7065970279b17b59e731eea943400d"
+          }
+        },
+        {
+          "client_id": "618951931056-m1vr2qhiqbn1v688lsvamsf2oct7sol2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAX-CnqnyzSQxn_56CKyRNdKScJvWDKdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618951931056-m1vr2qhiqbn1v688lsvamsf2oct7sol2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
